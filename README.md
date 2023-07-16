@@ -7,18 +7,18 @@ Simple e-commerce algorithms of some simple programs used for different purposes
 
 Data needs met;
 
-# Name of the product
-# Product Store
-# Product Description
-# Product details
-# Product reviews
-# Product rating
+-Name of the product
+Product Store
+Product Description
+product details
+Product reviews
+Product rating
 
-# Price analyzes of products
-# The cheapest and most rated product
-# The most rated and expensive product
-# top rated product
+Price analyzes of products
+The cheapest and most rated product
+The most rated and expensive product
+top rated product
 
 
-# 10 most popular products on e-commerce site
-# Top 10 most evaluated products in x category on e-commerce site
+10 most popular products on e-commerce site
+Top 10 most evaluated products in x category on e-commerce site
