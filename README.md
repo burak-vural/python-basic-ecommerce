@@ -7,7 +7,7 @@ Simple e-commerce algorithms of some simple programs used for different purposes
 
 Data needs met;
 
--Name of the product
+Name of the product
 Product Store
 Product Description
 product details
